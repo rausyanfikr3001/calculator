@@ -1,4 +1,5 @@
 THIRD PARTY SOFTWARE NOTICES AND INFORMATION
+peringatan dan informasi aplikasi pihak ketiga
 Do Not Translate or Localize
 
 This software incorporates material from third parties. Microsoft makes certain 
